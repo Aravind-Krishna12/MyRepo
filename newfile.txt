@@ -1,3 +1,4 @@
 This is a new file for day 2
 
 Edited on remote cloned repo
+added a nw line
